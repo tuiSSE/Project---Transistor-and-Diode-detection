@@ -34,31 +34,32 @@ If
 
 Detection of A Transistor:
 Build a simple circuit and use the transistor as a switch to effectively test the "gain" of the BJT for the two possibilities.
+
 Identifying the NPN Transistor:
 
-Set the positive probe to the (assume itâ€™s Base) pin1 and the negative probe to pin2.
+Set the positive probe to the (assume it's Base) pin1 and the negative probe to pin2.
 
-If thereâ€™s a voltage drop then it means pin2 is either Emitter or Collector.
+If there's a voltage drop then it means pin2 is either Emitter or Collector.
 
-Similarly set the negative probe to the pin-3 (collector) with respect to the pin-2.Â Some voltage drop will be seen again.
+Similarly set the negative probe to the pin-3 (collector) with respect to the pin-2. Some voltage drop will be seen again.
 
 It will ensure that it is a NPN transistor. 
 
-The logic behind this is, in NPN transistor Emitter (E) â€“ N type material â€“ Equivalent to cathode of the diode, Base (B) â€“ PÂ type material â€“ Equivalent to anodeÂ of the diode and Collector(C) â€“Â N type material â€“ Equivalent to cathode of the diode
+The logic behind this is, in NPN transistor Emitter (E) is a N-type material Equivalent to cathode of the diode, Base (B) is a P-type material Equivalent to anode of the diode and Collector(C) is a N-type material Equivalent to cathode of the diode
 
 If the positive probe is connected to anode and negative probe is connected to cathode, then it will show voltage. If the connections are interchanged it will not show any value.
 
 Identifying the PNP Transistor:
 
-Set the positive probe to the (assume itâ€™s Emitter) pin1 and the negative probe to pin2.
+Set the positive probe to the (assume it's Emitter) pin1 and the negative probe to pin2.
 
-If thereâ€™s a voltage drop then it means pin2 is Base.Â 
+If there's a voltage drop then it means pin2 is Base.
 
-Similarly set the negative probe to the (Base) with respect to the pin-3 (assuming itâ€™s collector).Â There will be again some voltage drop.
+Similarly set the negative probe to the (Base) with respect to the pin-3 (assuming it's collector). There will be again some voltage drop.
 
 It will ensure that it is a PNP transistor. 
 
-The logic behind this is, in PNP transistorÂ Emitter (E) â€“ P type material â€“ Equivalent to anodeÂ of the diode, Base (B) â€“ N type material â€“ Equivalent to cathode of the diode and Collector(C) â€“ P type material â€“ Equivalent to anodeÂ of the diode.
+The logic behind this is, in PNP transistor Emitter (E) is a P-type material Equivalent to anode of the diode, Base (B) is a N-type material Equivalent to cathode of the diode and Collector(C) is a P-type material Equivalent to anode of the diode.
 
 If the positive probe is connected to anode and negative probe is connected to cathode, then it will show voltage. If the connections are interchanged it will not show any value.
 
