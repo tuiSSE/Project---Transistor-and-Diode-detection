@@ -133,7 +133,7 @@ tr:nth-child(even) {
     <td> >300 & < 700 </td>
     <td>-</td>
     <td>-</td>
-<td>424</td>
+<td>484</td>
 <td>-</td>
   </tr>
 <tr>
